@@ -1,4 +1,4 @@
-# Vivaldi Darkling Theme
+# Darkling Vivaldi Theme
 ![GitHub License](https://img.shields.io/github/license/caminashell/clamav)
 
 ![Example 1](./assets/example.png)
